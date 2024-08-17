@@ -1,4 +1,4 @@
-## Hi there 👋
+all repos in this account fall under the "if this code sets your computer on fire don't associate me with it" license.
 
 <!--
 **mhmdcs/mhmdcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
